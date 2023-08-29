@@ -1,5 +1,5 @@
 # bamzybot
-A custom implementation of Pircbot for consuming WeatherAPI.com and Merriam-Webster Dictionary APIs
+A custom implementation of Pircbot for consuming the WeatherAPI.com and Merriam-Webster Dictionary APIs
 
 ## About 
 This project is the product of a desire to stretch my capacity as a programmer by exploring and implementing an—at the time of 
