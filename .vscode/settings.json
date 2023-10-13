@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/ayobamiadereti/Documents/Programming + Personal Projects/Java/Libraries/commons-lang3-3.0.jar",
+        "/Users/ayobamiadereti/Documents/Programming + Personal Projects/Java/Libraries/gson-2.6.2.jar",
+        "/Users/ayobamiadereti/Documents/Programming + Personal Projects/Java/Libraries/pircbot.jar"
+    ]
+}
