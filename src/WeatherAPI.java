@@ -12,9 +12,9 @@ public class WeatherAPI
 			location = location.replace(' ', '%');
 		}
 
-        // Store the components of the URL string
-        final String API_KEY = "d4b2698cffeb4b028dc221159231608";
-        String urlString = "http://api.weatherapi.com/v1" + "/current.json?key=" + API_KEY + "&q=" + location;
+	        // Store the components of the URL string
+	        final String API_KEY = "d4b2698cffeb4b028dc221159231608";
+	        String urlString = "http://api.weatherapi.com/v1" + "/current.json?key=" + API_KEY + "&q=" + location;
 
 		// Create a URL object 
 		URL weather = new URL(urlString);
@@ -37,7 +37,7 @@ public class WeatherAPI
 		}
 	
 		// Close the BufferedReader 
-    	in.close();
+    		in.close();
 
 		// Call the parseJsonTemperature method
 		JsonObject temp = parseJsonTemperature(result);
