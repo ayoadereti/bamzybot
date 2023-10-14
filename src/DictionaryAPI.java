@@ -11,7 +11,7 @@ public class DictionaryAPI
 
         // Store the components of the URL string
 		final String API_KEY = "c29420c8-93b2-42bc-82ca-09a2d3aa3452";
-        String urlString = "https://www.dictionaryapi.com/api/v3/references/thesaurus/json/" + word + "?key=" + API_KEY;
+        	String urlString = "https://www.dictionaryapi.com/api/v3/references/thesaurus/json/" + word + "?key=" + API_KEY;
 
 		// Create a URL object 
 		URL diction = new URL(urlString);
@@ -34,7 +34,7 @@ public class DictionaryAPI
 		}
 		
 		// Close the BufferedReader
-    	in.close();
+    		in.close();
 	
 		// Call the parseJsonSynonyms method 
 		JsonArray synonyms = parseJsonSynonyms(result);
