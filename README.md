@@ -13,12 +13,13 @@ This program was built and run using Visual Studio Code and Java SE 11. The foll
 
 ## Installation 
 1. Clone the repository
+
    `git clone https://github.com/ayoadereti/bamzybot.git`
    
 2. Launch the program in VSCode 
-   'code bamzybot'
 
 3. Connect to the #bamzywurld channel via KiwiIRC
+   
    https://web.libera.chat/
    
 ## Usage 
@@ -41,6 +42,6 @@ PircBot and IRC
 * http://www.jibble.org/pircbot.php
 * https://www.weatherapi.com/docs/
 * https://dictionaryapi.com/products/api-collegiate-thesaurus
-* * https://www.baeldung.com/java-http-request
+* https://www.baeldung.com/java-http-request
 * https://www.postman.com/
 * https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=en-US
