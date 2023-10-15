@@ -30,18 +30,21 @@ This program was built and run using Visual Studio Code and Java SE 11. The foll
 <img width="662" alt="weather" src="https://github.com/ayoadereti/bamzybot/assets/132008328/75b1d754-7961-4a75-a8dc-cdad6226bd66">
 
 
+
 2. You can request synonyms using the stem "synonyms of" + a word 
 
 <img width="668" alt="synonyms" src="https://github.com/ayoadereti/bamzybot/assets/132008328/456e2a02-993f-435a-b60c-1c681aef0fa3">
+
 
 
 3. End the chat when satisfied 
 
 <img width="668" alt="endChat" src="https://github.com/ayoadereti/bamzybot/assets/132008328/ae972ba9-fbb5-4304-8462-410bc234dc6a">
 
+
  
 # License
-Distributed under the GLP License. See 'LICENSE.txt' for more information
+Distributed under the GPL License. See 'LICENSE.txt' for more information
 
 # Acknowledgements
 Relevant links, including API documentation and resources used to help with implementation and understanding of
