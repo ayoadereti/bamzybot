@@ -5,7 +5,10 @@ A custom implementation of PircBot for consuming REST APIs
 With BamzyBot, you can retrieve weather and word data (potential definitions + synonyms) by running the program locally and connecting to the #bamzywurld channel in KiwiIRC, a web-based IRC client. Once connected, BamzyBot prompts you to enter a request for (1) the temperature and weather conditions of a location——a city name, US zip, or postal code——or (2) potential synonyms of a given word. 
 
 # Getting Started 
-This program was built and run using Visual Studio Code and Java SE 11. The following library files are included:
+## Prerequisites
+You will need Java SE 8+ on your computer to run this program. The program was built and run using Visual Studio Code.
+
+The following library files are included:
 
 * PircBot 1.5.0
 * Gson 2.6.2
@@ -15,14 +18,22 @@ This program was built and run using Visual Studio Code and Java SE 11. The foll
 1. Clone the repository
 
    `git clone https://github.com/ayoadereti/bamzybot.git`
+
+
+2. Navigate to the project directory
    
+   `cd bamzybot`
 
-2. Launch the program in VSCode 
+
+3. Launch the program in VSCode
+   
+   `code .`
 
 
-3. Connect to the #bamzywurld channel via KiwiIRC
+4. Connect to the #bamzywurld channel via KiwiIRC
    
    https://web.libera.chat/
+
    
 ## Usage 
 1. You can request weather information using the stem "weather in" + a location query (city, zip code, postal code)
