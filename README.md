@@ -55,7 +55,7 @@ The following library files are included:
 
  
 # License
-Distributed under the GPL License. See 'LICENSE.txt' for more information
+Distributed under the GPL License. See 'LICENSE.md' for more information
 
 # Acknowledgements
 Relevant links, including API documentation and resources used to help with implementation and understanding of
